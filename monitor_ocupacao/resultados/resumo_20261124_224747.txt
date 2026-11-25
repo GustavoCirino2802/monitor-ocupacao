@@ -1,0 +1,10 @@
+===== RESUMO DA EXECUÇÃO =====
+Duração ................: 34.5 s
+Frames processados .....: 300
+FPS médio ..............: 8.7
+Capacidade da sala .....: 3
+Média de objetos/frame .: 2.82
+Pico simultâneo ........: 5
+Tempo acima da lotação .: 31.7% dos frames
+Detecções por classe ...: objeto=847
+Log detalhado ..........: resultados\log_20261124_224747.csv
